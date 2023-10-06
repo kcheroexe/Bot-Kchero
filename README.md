@@ -1,7 +1,7 @@
 > <b>🚀 VERSIÓN DE BENJA 1.2 🚀</b>
  
 <p align="center"> 
-<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=KCHERO-BOT++0%88;Gracias+por+visitar+el+repositorio!" height="90px"></a> 
+<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=KCHERO-BOT++0%88;Gracias+por+visitar+el+repositorio!" height=
 </p>
 
 <p align="center">
