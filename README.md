@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/WwxBm8o.jpg" alt="Bot-Kchero" width="900"/>
+src="https://i.imgur.com/WwxBm8o.jpg" alt="Bot-Kchero" width="900"/>
 </p>
 
 <p align="center">
